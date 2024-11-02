@@ -185,6 +185,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
+					"marketModes" : ["resource-resource", "resource-player"],
 					"id" : 14
 				},
 				"resourceSilo" :
@@ -196,6 +197,7 @@
 						"ore" : 5,
 						"gold" : 5000
 					},
+					"produce": { "sulfur": 1},
 					"requires" : ["marketplace"],
 					"id" : 15
 				},
@@ -208,6 +210,7 @@
 						"wood" : 5,
 						"gold" : 1000
 					},
+					"warMachine" : "firstAidTent",
 					"id" : 16
 				},
 				"horde1" :
@@ -266,7 +269,13 @@
 				{
 					"description" : "The Confession Chapel increases morale by 1 for troops defending the city.",
 					"name" : "Confession Chapel",
-					"bonuses": [ { "type": "MORALE", "val": 1 } ],
+//					"upgradeReplacesBonuses" : true,
+					"bonuses": [
+						{
+							"type": "MORALE",
+							"val": 1
+						}
+					],
 					"cost" : 
 					{
 						"gold" : 1000
@@ -294,8 +303,12 @@
 					{
 						"gold" : 1000
 					},
- //                   "upgrades" : "special1",
-					"bonuses": [ { "type": "LUCK", "val": 2 } ],
+					"bonuses": [
+						{
+							"type": "LUCK",
+							"val": 2
+						}
+					],
 					"id" : 21
 				},	
 

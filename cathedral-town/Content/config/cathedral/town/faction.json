@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/CathedralTown",
+			"musicTheme" : [ "music/factions/CathedralTown" ],
 			"defaultTavern" : 5,
 			"tavern" :
 			{
@@ -165,7 +165,6 @@
 				}
                         },
 			"mageGuild" : 5,
-			"warMachine" : "firstAidTent",
 			"names" : [
 				"Jevonchurch", //in Russian: Джевонс Церковь; in Chinese: 圣佑镇
 				"Townsville",	// in Russian: Таунсвилл; in Chinese: 汤斯维尔
