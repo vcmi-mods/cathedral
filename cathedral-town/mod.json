@@ -2,7 +2,7 @@
 	"name" : "Cathedral Town",
 	"description" : "Cathedral Town is a mod which recreated by Ben Yan",
 	"author": "Ben Yan",
-	"version" : "1.1.8",
+	"version" : "1.1.9",
 	"contact": "mail: benyan9110@gmail.com",
 	"modType" : "Town",
 	"compatibility" :
@@ -11,6 +11,7 @@
 	},	
 	"changelog" :
 	{
+		"1.1.9"   : [ "Fix Grail not to produce gold" ],
 		"1.1.8"   : [ "Update to vcmi-1.6 format" ],
 		"1.1.7"   : [ "Fixed Franco J specialty", "Fixed commander's Magic Resistance bonus" ],
 		"1.1.6"   : [ "Updated russian translation", "Improved horde graphics by Fabrice-TIERCELIN" ],
