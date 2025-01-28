@@ -36,7 +36,7 @@
 			"specialty" : 
 			{
 				"description" : "Receives a 5% per level bonus to Resistance skill.",
-				"tooltip" : "Resistance(unused)",
+				"tooltip" : "Secondary Skill Bonus: Resistance",
 				"name" : "Resistance"
 			}
 		},

@@ -34,8 +34,8 @@
 			"biography" : "Someone said Riera looks like the Countess in tale, but she is really a kind woman and often helps the poverty. Maybe such view only because her husband Baron Von Schiffer was dead in the disaster and became a vampire by necromancers.",
 			"specialty" :
 			{
-				"description" : "Casts Weakness spell with increased effect, based on the level of the target.",
-				"tooltip" : "Secondary Skill Bonus",
+				"description" : "Casts Weakness with effect increased by 3 for level 1–2 creatures, by 2 for level 3–4 creatures, and by 1 for level 5–6 creatures.",
+				"tooltip" : "Spell Bonus: Weakness",
 				"name" : "Weakness"
 			}
 		},

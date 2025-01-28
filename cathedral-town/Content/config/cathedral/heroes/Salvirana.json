@@ -31,9 +31,9 @@
 			"biography" : "Farrebique used to be an angel but his wings were burned from this disaster. He cannot fly any more so he pretended himself as a cleric. Although losing the flying ability, he has never supposed he is fallen. Yes, simply because he dreams of light.",
 			"specialty" :
 			{
-				"description" : "Increase 10% life point for all creatures.",
-				"tooltip" : "Health Bonus",
-				"name" : "+10% Health"
+				"description" : "Increases the Health of allied creatures by +10%.",
+				"tooltip" : "Creature Bonus: Health",
+				"name" : "Health"
 			}
 		},
 		"spellbook" :

@@ -35,9 +35,9 @@
 			"biography" : "Gabrielle is a daughter of a priest. She suffered the disaster while as a child. Her father was killed by undead creatures thus she said no one hates necromancers more than her. She became a cleric only for bringing the punishment for all necromancers.",
 			"specialty" :
 			{
-				"description" : "All enemies -1 luck during battle.",
-				"tooltip" : "Bonus: Misfortune",
-				"name" : "-1 Luck"
+				"description" : "All enemy creatures receive -1 Luck.",
+				"tooltip" : "Bonus: Negative Luck",
+				"name" : "Negative Luck"
 			}
 		},
 		"spellbook" :
