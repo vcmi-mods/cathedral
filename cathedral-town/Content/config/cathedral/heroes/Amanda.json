@@ -34,9 +34,9 @@
 			"biography" : "Similar as Gabrielle, Amanda had seen her parents and sisters' death in the disaster at a very young age. She was rescued by priests from the church. Now she also became a revenger for necromancers.",
 			"specialty" :
 			{
-				"description" : "All enemies -1 morale during battle.",
-				"tooltip" : "Bonus: -1 Morale",
-				"name" : "-1 Morale"
+				"description" : "All enemy creatures receive -1 Morale.",
+				"tooltip" : "Bonus: Negative Morale",
+				"name" : "Negative Morale"
 			}
 		},
 		"spellbook" :

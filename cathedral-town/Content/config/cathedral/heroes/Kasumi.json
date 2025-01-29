@@ -36,7 +36,7 @@
 			"specialty" :
 			{
 				"description" : "Increases Speed of any Slayers and Executioners by 1 and their Attack and defense skills by 5% for every 2 levels (rounded up).",
-				"tooltip" : "Slayers Bonus",
+				"tooltip" : "Creature Bonus: Slayers",
 				"name" : "Slayers"
 			}
 		},

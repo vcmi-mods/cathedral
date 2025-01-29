@@ -36,7 +36,7 @@
 			"specialty" :
 			{
 				"description" : "Increases kingdom's income by 350 gold per day.",
-				"tooltip" : "Increases kingdom's income by 350 gold per day",
+				"tooltip" : "Resource Bonus: Gold",
 				"name" : "+350 Gold"
 			}
 		},
