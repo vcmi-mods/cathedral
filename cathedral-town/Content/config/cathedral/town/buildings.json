@@ -309,7 +309,9 @@
 							"val": 2
 						}
 					],
-					"id" : 21
+					"upgrades" : "special1",
+                    "produce": { "gold": 350 }, 
+					"id" : 23
 				},	
 
 				"grail" :
@@ -364,8 +366,8 @@
 				},
 				"dwellingLvl4" :
 				{
-					"description" : "Refuse Dump allows you to recruit Couatls.",
-					"name" : "Refuse Dump",
+					"description" : "Churchyard allows you to recruit Gourmands.",
+					"name" : "Churchyard",
 					"cost" : 
 					{
 						"gold" : 2000,
@@ -409,8 +411,8 @@
 				},
 				"dwellingLvl7" :
 				{
-					"description" : "Cursed Shrine allows you to recruit Punishers.",
-					"name" : "Cursed Shrine",
+					"description" : "Shrine of Judgement allows you to recruit Punishers.",
+					"name" : "Shrine of Judgement",
 					"cost" : 
 					{
 						"gold" : 15000,
@@ -465,8 +467,8 @@
 				},
 				"dwellingUpLvl4" :
 				{
-					"description" : "Upg. Refuse Dump allows you to recruit Bloody Couatls.",
-					"name" : "Upg. Refuse Dump",
+					"description" : "Upg. Churchyard allows you to recruit Gluttons.",
+					"name" : "Upg. Churchyard",
 					"cost" : 
 					{
 						"gold" : 2000,
@@ -515,8 +517,8 @@
 				},
 				"dwellingUpLvl7" :
 				{
-					"description" : "Upg. Cursed Shrine allows you to recruit Chasteners.",
-					"name" : "Upg. Cursed Shrine",
+					"description" : "Upg. Shrine of Judgement allows you to recruit Chasteners.",
+					"name" : "Upg. Shrine of Judgement",
 					"cost" : 
 					{
 						"ore" : 5,

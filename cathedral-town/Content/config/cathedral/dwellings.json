@@ -36,7 +36,7 @@
                 }
             },
             "cathedralLevel4" : {
-                "name" : "Refuse Dump",
+                "name" : "Churchyard",
                 "creatures" : [[ "cthCouatl" ]],
                 "templates" : {
                     "default" : {

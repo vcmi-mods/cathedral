@@ -1,9 +1,0 @@
-{
-    "basepath" : "cathedral/frames/",
-	"images" :
-	[
-		{ "frame" : 17, "file" : "134187"},
-		{ "frame" : 22, "file" : "134189" },
-		{ "frame" : 21, "file" : "134188" }
-	]
-}
