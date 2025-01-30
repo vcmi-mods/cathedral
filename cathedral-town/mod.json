@@ -45,7 +45,7 @@
 	
 	"czech" : {
 		"name" : "Katedrála",
-		"description" : "Katedrála je temné a fanatické město, které povstala jako odpověď na tragické události a katastrofy v Erathii. Hrdinové jsou poháněni touhou po pomstě a očistě, věří v tvrdé tresty a oddanost božské spravedlnosti. Jednotky zahrnují stopařské psy, lovce čarodějnic, templáře i mstitele, zatímco hrdinové často přinášejí temná požehnání a zvyšují bojovou efektivitu svých armád.",
+		"description" : "Katedrála je temné a fanatické město, které se zrodilo jako odpověď na tragické události a katastrofy v Erathii. Hrdinové jsou poháněni touhou po pomstě a očistě, věří v tvrdé tresty a oddanost božské spravedlnosti.",
 		"translations" : [
 			"translation/cathedral/czech.json"
 		]
